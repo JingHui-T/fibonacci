@@ -1,5 +1,5 @@
 def fib(n):
-    """Return the n-th f=Fibonacci number."""
+    """Return the n-th Fibonacci number."""
     if n == 0:
         return 0
     elif n == 1:
